@@ -1,0 +1,331 @@
+{
+  "apparels": [
+    {
+      "skuId": "1",
+      "sizes": [
+        {
+          "skuSizeId": "1A",
+          "size": "S"
+        },
+        {
+          "skuSizeId": "1B",
+          "size": "M"
+        },
+        {
+          "skuSizeId": "1C",
+          "size": "L"
+        },
+        {
+          "skuSizeId": "1D",
+          "size": "XL"
+        }
+      ]
+    },
+    {
+      "skuId": "2",
+      "sizes": [
+        {
+          "skuSizeId": "2A",
+          "size": "S"
+        },
+        {
+          "skuSizeId": "2B",
+          "size": "M"
+        },
+        {
+          "skuSizeId": "2C",
+          "size": "L"
+        },
+        {
+          "skuSizeId": "2D",
+          "size": "XL"
+        }
+      ]
+    },
+    {
+      "skuId": "1",
+      "sizes": [
+        {
+          "skuSizeId": "1A",
+          "size": "S"
+        },
+        {
+          "skuSizeId": "1A",
+          "size": "M"
+        },
+        {
+          "skuSizeId": "1A",
+          "size": "L"
+        },
+        {
+          "skuSizeId": "1A",
+          "size": "XL"
+        }
+      ]
+    },
+    {
+      "skuId": "3",
+      "sizes": [
+        {
+          "skuSizeId": "3A",
+          "size": "S"
+        },
+        {
+          "skuSizeId": "3B",
+          "size": "M"
+        },
+        {
+          "skuSizeId": "3C",
+          "size": "L"
+        },
+        {
+          "skuSizeId": "3D",
+          "size": "XL"
+        }
+      ]
+    },
+    {
+      "skuId": "4",
+      "sizes": [
+        {
+          "skuSizeId": "4A",
+          "size": "S"
+        },
+        {
+          "skuSizeId": "4B",
+          "size": "M"
+        },
+        {
+          "skuSizeId": "4C",
+          "size": "L"
+        },
+        {
+          "skuSizeId": "4D",
+          "size": "XL"
+        }
+      ]
+    }
+  ],
+  "vendors": [
+    {
+      "vendorId": "1",
+      "apparelsToSell": [
+        {
+          "skuId": "1",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "1A",
+              "stocksAvailable": 8,
+              "price": 5000
+            },
+            {
+              "skuSizeId": "1B",
+              "stocksAvailable": 10,
+              "price": 982
+            },
+            {
+              "skuSizeId": "1C",
+              "stocksAvailable": 1010,
+              "price": 700
+            },
+            {
+              "skuSizeId": "1D",
+              "stocksAvailable": 70,
+              "price": 9000
+            }
+          ]
+        },
+        {
+          "skuId": "2",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "2A",
+              "stocksAvailable": 80,
+              "price": 80
+            },
+            {
+              "skuSizeId": "2B",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2C",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2D",
+              "stocksAvailable": 100,
+              "price": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vendorId": "2",
+      "apparelsToSell": [
+        {
+          "skuId": "1",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "1A",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "1B",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "1C",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "1D",
+              "stocksAvailable": 100,
+              "price": 1000
+            }
+          ]
+        },
+        {
+          "skuId": "2",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "2A",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2B",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2C",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2D",
+              "stocksAvailable": 100,
+              "price": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vendorId": "3",
+      "apparelsToSell": [
+        {
+          "skuId": "1",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "1A",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "1B",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "1C",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "1D",
+              "stocksAvailable": 100,
+              "price": 1000
+            }
+          ]
+        },
+        {
+          "skuId": "4",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "4A",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "4B",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "4C",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "4D",
+              "stocksAvailable": 100,
+              "price": 1000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "vendorId": "4",
+      "apparelsToSell": [
+        {
+          "skuId": "1",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "1A",
+              "stocksAvailable": 8,
+              "price": 5000
+            },
+            {
+              "skuSizeId": "1B",
+              "stocksAvailable": 10,
+              "price": 982
+            },
+            {
+              "skuSizeId": "1C",
+              "stocksAvailable": 1010,
+              "price": 700
+            },
+            {
+              "skuSizeId": "1D",
+              "stocksAvailable": 70,
+              "price": 9000
+            }
+          ]
+        },
+        {
+          "skuId": "2",
+          "sizesAvailable": [
+            {
+              "skuSizeId": "2A",
+              "stocksAvailable": 80,
+              "price": 80
+            },
+            {
+              "skuSizeId": "2B",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2C",
+              "stocksAvailable": 100,
+              "price": 1000
+            },
+            {
+              "skuSizeId": "2D",
+              "stocksAvailable": 100,
+              "price": 1000
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

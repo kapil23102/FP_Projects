@@ -1,0 +1,71 @@
+/* Add application styles & imports to this file! */
+/* Styles for app component */
+app-root {
+  display: block;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+/* Styles for navigation */
+nav {
+  margin-bottom: 20px;
+}
+
+nav a {
+  text-decoration: none;
+  margin-right: 10px;
+  color: #333;
+}
+
+/* Styles for page titles */
+h1 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+
+/* Styles for search input and button */
+input[type='text'] {
+  padding: 8px;
+  font-size: 16px;
+}
+
+button {
+  padding: 8px 15px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+/* Styles for user search results */
+.user-card {
+  display: flex;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.user-card p {
+  margin: 5px 0;
+}
+
+.user-img {
+  height: 100px;
+  width: 100px;
+}
+
+.user-details-section {
+  padding: 25px;
+}
+
